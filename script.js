@@ -1,5 +1,3 @@
-const API_KEY = '19d88743f28a4c81ab2bdeaa69a5a444';
-
 let currentPage = 1;
 let currentCategory = null;
 let currentKeyword = null;
